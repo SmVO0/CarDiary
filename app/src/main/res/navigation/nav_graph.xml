@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.cardiary.app.ui.dashboard.DashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/fuelFragment"
+        android:name="com.cardiary.app.ui.fuel.FuelFragment"
+        android:label="Fuel" />
+
+    <fragment
+        android:id="@+id/repairFragment"
+        android:name="com.cardiary.app.ui.repair.RepairFragment"
+        android:label="Repair" />
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.cardiary.app.ui.history.HistoryFragment"
+        android:label="History" />
+
+    <fragment
+        android:id="@+id/addCarFragment"
+        android:name="com.cardiary.app.ui.car.AddCarFragment"
+        android:label="Add Car" />
+
+</navigation>
