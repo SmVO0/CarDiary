@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
 
-</FrameLayout>
+    <TextView
+        android:id="@+id/tvNoCar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/no_car_added_yet"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnAddCar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_my_car"/>
+
+</LinearLayout>
