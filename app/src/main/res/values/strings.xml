@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CarDiary</string>
+    <string name="no_car_added_yet">No car added yet</string>
+    <string name="add_my_car">Add My Car</string>
 </resources>
