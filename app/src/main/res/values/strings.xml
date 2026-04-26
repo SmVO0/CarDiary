@@ -14,4 +14,14 @@
     <string name="save_fuel_entry">Save Fuel Entry</string>
     <string name="odometer_km">Odometer (km)</string>
     <string name="receipt_photo">Receipt photo</string>
+    <string name="save_repair_entry">Save Repair Entry</string>
+    <string name="receipt_photo_repair">Receipt photo</string>
+    <string name="take_receipt_photo_repair">Take Receipt Photo</string>
+    <string name="notes_optional_repair">Notes (optional)</string>
+    <string name="odometer_km_repair">Odometer (km)</string>
+    <string name="cost">Cost</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="date_repair">Date</string>
+    <string name="log_repair">Log Repair</string>
 </resources>
