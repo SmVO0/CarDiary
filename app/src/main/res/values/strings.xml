@@ -2,4 +2,16 @@
     <string name="app_name">CarDiary</string>
     <string name="no_car_added_yet">No car added yet</string>
     <string name="add_my_car">Add My Car</string>
+    <string name="total_price_auto_calculated">Total Price (auto calculated)</string>
+    <string name="price_per_liter">Price per Liter</string>
+    <string name="liters">Liters</string>
+    <string name="date">Date</string>
+    <string name="log_fuel_stop">Log Fuel Stop</string>
+    <string name="notes_optional">Notes (optional)</string>
+    <string name="get_location">Get Location</string>
+    <string name="no_location">No location</string>
+    <string name="take_receipt_photo">Take Receipt Photo</string>
+    <string name="save_fuel_entry">Save Fuel Entry</string>
+    <string name="odometer_km">Odometer (km)</string>
+    <string name="receipt_photo">Receipt photo</string>
 </resources>
