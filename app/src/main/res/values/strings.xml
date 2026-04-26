@@ -24,4 +24,16 @@
     <string name="category">Category</string>
     <string name="date_repair">Date</string>
     <string name="log_repair">Log Repair</string>
+    <string name="history">History</string>
+    <string name="no_entries_yet">No entries yet</string>
+    <string name="my_car">My Car</string>
+    <string name="total_fuel">Total Fuel</string>
+    <string name="no_cost">0.00 EUR</string>
+    <string name="total_cost_fuel_repairs">Total Cost (Fuel + Repairs)</string>
+    <string name="_0">0</string>
+    <string name="total_entries">Total Entries</string>
+    <string name="l_100km">-- L/100km</string>
+    <string name="avg_consumption">Avg Consumption</string>
+    <string name="_0_00_eur">0.00 EUR</string>
+    <string name="total_repairs">Total Repairs</string>
 </resources>
