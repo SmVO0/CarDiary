@@ -43,7 +43,7 @@ class HistoryAdapter : ListAdapter<HistoryItem, HistoryAdapter.HistoryViewHolder
             when (item) {
                 is HistoryItem.Fuel -> {
                     tvType.text = "⛽ Fuel"
-                    tvDetails.text = "${item.entry.liters}L @ ${item.entry.pricePerLiter} BGN/L"
+                    tvDetails.text = "${item.entry.liters}L @ ${item.entry.pricePerLiter} EUR/L"
                 }
                 is HistoryItem.Repair -> {
                     tvType.text = "🔧 Repair"
